@@ -11,7 +11,8 @@ environment:
 
 dependencies:
   firebase_analytics_platform_interface: ^1.1.0
-  firebase_analytics_web: ^0.2.0
+  firebase_analytics_web: 
+    git: https://github.com/teamDrt280320/flutterfire/tree/master/packages/firebase_analytics/firebase_analytics_web
   firebase_core: ^1.0.0
   flutter:
     sdk: flutter
